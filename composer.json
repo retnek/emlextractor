@@ -1,0 +1,20 @@
+{
+    "name": "retnek/emlextractor",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Katona Istvan",
+            "email": "r.etnek@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/console": "3.1.x-dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
